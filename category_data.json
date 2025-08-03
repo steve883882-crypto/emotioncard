@@ -1,0 +1,6 @@
+
+[
+  { "category_id": "cat_01", "name": "喜悦"},
+  { "category_id": "cat_02", "name": "愤怒" },
+  { "category_id": "cat_03", "name": "悲伤" }
+]

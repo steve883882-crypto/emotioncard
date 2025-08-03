@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/recommend/recommend",
+    "pages/list/list",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "两个Tab的小程序",
+    "navigationBarTextStyle": "black"
+  },
+  "renderer": "webview",
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/recommend/recommend",
+        "text": "推荐"
+      },
+      {
+        "pagePath": "pages/list/list",
+        "text": "列表"
+      }
+    ],
+    "color": "#999999",
+    "selectedColor": "#333333",
+    "backgroundColor": "#f8f8f8",
+    "borderStyle": "white"
+  }
+}

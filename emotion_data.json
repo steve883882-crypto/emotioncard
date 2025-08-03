@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": "001",
+    "word": "委屈",
+    "pinyin": "wěi qū",
+    "definition": "因受到不公平的待遇或不被理解而感到的难过。",
+    "image_path": "/images/weiqu.png",
+    "families": ["cat_03", "cat_02"],
+    "intensity": 5,
+    "scenarios": ["自己的一番好意被他人误解时。", "付出了很多努力，功劳却被别人抢走时。"],
+    "body_sensations": ["胸口发闷", "喉咙哽咽", "眼眶发热"],
+    "inner_voice": ["这不公平！", "为什么受伤的总是我？"],
+    "needs": ["渴望被看见", "渴望被理解", "渴望被公平对待"],
+    "pro_tip": ""听起来，你感觉特别不被理解，好像所有的付出都没有被看到，是这样吗？"",
+    "synonyms": [{ "word": "心酸", "distinction": "侧重于自我怜悯的内部感受。" }]
+  },
+  {
+    "id": "002",
+    "word": "高兴",
+    "pinyin": "gāo xìng",
+    "definition": "因得到满足或达到目的而感到愉快。",
+    "image_path": "/images/gaoxing.png",
+    "families": ["cat_01"],
+    "intensity": 6,
+    "scenarios": ["收到了期待已久的礼物。"],
+    "body_sensations": ["嘴角上扬", "感觉轻松"],
+    "inner_voice": ["太棒了！"],
+    "needs": ["渴望被认可", "渴望快乐"],
+    "pro_tip": ""看到你这么开心，我也替你感到高兴。"",
+    "synonyms": []
+  }
+]
